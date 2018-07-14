@@ -1,0 +1,46 @@
+Alfonzo Avila
+
+Energy Production Analysis
+
+*Introduction*
+The data file was obtained from the U.S. Energy Information Administration.
+The data contains the primary energy production by source beginning from
+1949 to 2014 in quadrillion BTU (British thermal unit).The only pieces of 
+data being analyzed are the total renewable energy production and the
+overall total energy production. Renewable energy production is energy
+sourced from hydroelectric power, geothermal, solar/photovoltaic, wind and
+biomass. Below is the URL address of the data source.
+
+http://www.eia.gov/totalenergy/data/monthly/#summary
+
+
+
+*Data Analysis Question #1*
+How much has renewable energy production grown since 1949?
+
+In 1949, 2.97 quadrillion BTUs (British thermal unit) of renewable energy
+was produced in the U.S. It's important to note that certain renewable
+energy was not available yet such as geothermal, solar, and wind energy.
+As of 2014, renewable energy production grew 224.7% since 1949.
+
+
+*Data Analysis Question #2*
+How much renewable and overall total energy has been produced since 1949?
+
+Total Renewable Energy Produced(1949-2014)	342 quadrillion BTU
+Total Overall Energy Produced(1949-2014)	4060 quadrillion BTU
+
+
+*Data Analysis Question #3*
+What are the decade averages for both renewable energy produced
+and total overall energy produced?
+
+Decade		Average Renewable	Average Overall
+		Energy			Energy
+50's		2.88			39.47
+60's		3.37			50.65
+70's		4.56			62.99
+80's		5.93			67.42
+90's		6.36			71.08
+2000's		6.32			71.14
+The averages are in quadrillion BTU (British thermal unit).
