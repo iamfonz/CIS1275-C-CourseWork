@@ -1,0 +1,12 @@
+
+
+Booking Date : 11/18/2015
+Hello Alfonzo! Your sail date is on 3/15/2016.
+Your purchase is for 2 tickets and 1 excursions
+Because you booked 118 days in advance, you receive
+no discount towards your ticket price.
+You have an early 6:00PM dinner reservation at table number 78.
+The price of the tickets is $3538.00.
+The price of the excursion is $225.00.
+The total price of your purchase is $3763.00.
+We look forward to having you as our C++ Cruise Line guest!
